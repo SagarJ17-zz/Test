@@ -1,6 +1,12 @@
 import requests as rs
 from bs4 import BeautifulSoup as bs
 import re
+import numpy
+import matplotlib
+import pandas
+import zipp
+import hashin
+import tensorflow
 site = ''
 req = rs.get(site)
 soup = bs(req.text, 'html.parser')
