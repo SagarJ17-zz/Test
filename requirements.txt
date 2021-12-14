@@ -1,5 +1,2 @@
 hashin
-xmltodict
-beautifulsoup4
-GitPython
-PyYAML
+
