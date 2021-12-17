@@ -4,3 +4,4 @@ xmltodict
 beautifulsoup4
 GitPython
 PyYAML
+Numpy
