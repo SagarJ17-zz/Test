@@ -5,3 +5,4 @@ beautifulsoup4
 GitPython
 PyYAML
 Numpy
+urllib3==1.0.1
