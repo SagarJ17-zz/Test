@@ -1,4 +1,3 @@
-requests
 hashin
 xmltodict
 beautifulsoup4
